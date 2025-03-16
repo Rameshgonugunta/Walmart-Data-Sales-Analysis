@@ -1,13 +1,16 @@
                                                          Walmart Data Sales Analysis
 
 
-About
+About:
+
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 
-About the Data
+About the Data:
+
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows
 
-Analysis List
+Analysis List:
+
 1.	Product Analysis
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 2.	Sales Analysis
@@ -15,7 +18,8 @@ This analysis aims to answer the question of the sales trends of product. The re
 3.	Customer Analysis
 This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
-Approach Used
+Approach Used:
+
 1.	Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
 1.	Build a database
 2.	Create table and insert the data.
@@ -28,7 +32,8 @@ Approach Used
 3.	Conclusion.
 
 
-Business Questions To Answer
+Business Questions To Answer:
+
 Generic Question
 1.	How many unique cities does the data have?
 2.	In which city is each branch?
